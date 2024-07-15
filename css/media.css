@@ -1,0 +1,24 @@
+@media screen and (max-width: 599px) {
+    .calc {
+        width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (min-width:600px) and (max-width:767px) {
+    .calc {
+        width: 50%;
+        height: 80%;
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px) {
+    .calc {
+        width: 40%;
+        height: 80%;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .calc {
+        width: 35%;
+        height: 80%;
+    }
+}
